@@ -12,7 +12,10 @@ h2 {
 }
 
 #cabecera {
-    background-color: blueviolet;
-    border: red;
+    background-color: #333;
+    border-radius: 1%;
     font-family: 'Courier';
+    font-style: italic;
+    text-align: left;
+    height: 30px;
 }
